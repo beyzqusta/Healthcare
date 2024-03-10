@@ -8,7 +8,7 @@
 1.[PROJE PLANI](https://github.com/beyzqusta/Healthcare/blob/main/PROJE%20PLANI)<br/>
 2.[GEREKSİNİM ANALİZİ](https://github.com/beyzqusta/Healthcare/blob/main/GEREKSİNİM%20ANALİZİ%20SAYFASI)<br/>
 3.[DURUM DİYAGRAMI](https://github.com/beyzqusta/Healthcare/blob/main/DURUM%20DİYAGRAMI)<br/>
-4. DURUM SENARYOLARI
+4.[DURUM SENARYOLARI](https://github.com/beyzqusta/Healthcare/blob/main/DURUM%20SENARYOLARI)<br/>
 5. VERİTABANI DİYAGRAMI
 6. FRONT-END
 7. BACK-END
