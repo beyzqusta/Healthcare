@@ -6,7 +6,7 @@
 ### GRUP ADI : PULSE PİONEERS 
 ### PROJE EKİBİ : BEYZA USTA , CEYDA PALANCI , MERVE TALAN , MELİSA AKAR
 1.[PROJE PLANI](https://github.com/beyzqusta/Healthcare/blob/main/PROJE%20PLANI)<br/>
-2. GEREKSİNİM ANALİZİ
+2.[GEREKSİNİM ANALİZİ](https://github.com/beyzqusta/Healthcare/blob/main/GEREKSİNİM%20ANALİZİ%20SAYFASI)<br/>
 3. DURUM DİYAGRAMI
 4. DURUM SENARYOLARI
 5. VERİTABANI DİYAGRAMI
