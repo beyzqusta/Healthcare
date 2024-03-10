@@ -5,7 +5,7 @@
 ### UYGULAMA ADRESİ : https://enabiz.gov.tr
 ### GRUP ADI : PULSE PİONEERS 
 ### PROJE EKİBİ : BEYZA USTA , CEYDA PALANCI , MERVE TALAN , MELİSA AKAR
-1. PROJE PLANI
+1.[PROJE PLANI](https://github.com/beyzqusta/Healthcare/blob/main/PROJE%20PLANI)<br/>
 2. GEREKSİNİM ANALİZİ
 3. DURUM DİYAGRAMI
 4. DURUM SENARYOLARI
