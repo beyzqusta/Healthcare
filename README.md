@@ -12,5 +12,5 @@
 5.[VERİTABANI DİYAGRAMI](https://github.com/beyzqusta/Healthcare/blob/main/VERİTABANI%20DİYAGRAMI)<br/>
 6.[FRONT-END](https://github.com/beyzqusta/Healthcare/blob/main/FRONT-END)<br/>
 7.[BACK-END](https://github.com/beyzqusta/Healthcare/blob/main/BACK-END)<br/>
-8. TEST
-9. GELİŞTİRİCİ VE KULLANICI DOKÜMANTASYONLARI
+8.[TEST](https://github.com/beyzqusta/Healthcare/blob/main/TEST)<br/>
+9.GELİŞTİRİCİ VE KULLANICI DOKÜMANTASYONLARI
