@@ -1,0 +1,1 @@
+![alt text](https://media.discordapp.net/attachments/1213089377488474145/1225723684224761946/Ekran_goruntusu_2024-04-05_112732.png?ex=662b65a3&is=6618f0a3&hm=2cf25ab1b413788d71dd87cbed4e4402e094df7bd9be6cbe73009ad08264937b&=&format=webp&quality=lossless&width=1250&height=593)
