@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:icon="@drawable/home"
+        android:id="@+id/navmenu1"
+        android:title="Menü"/>
+
+    <item
+        android:icon="@drawable/kisisel"
+        android:id="@+id/navKisi"
+        android:title="Kişisel Bilgi"/>
+
+
+
+    <item
+        android:icon="@drawable/hastalik"
+        android:id="@+id/navhastalk"
+        android:title="Hastalıklarım"/>
+
+
+    <item
+        android:icon="@drawable/takvim"
+        android:id="@+id/tkvim"
+        android:title="Takvim"/>
+
+
+</menu>

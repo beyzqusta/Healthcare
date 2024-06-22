@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dprofilgoruntule4">
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:src="@drawable/d1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:layout_margin="13dp"
+            android:text="Burak Hazine"
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:layout_margin="13dp"
+            android:text="Kadın Hastalıkları ve Doğum"
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_margin="15dp"
+            android:text="Kadın hastalıkları ve doğum, kadınların üreme sağlığına odaklanan bir tıbbi uzmanlık dalıdır. Bu alan, gebelik, doğum, jinekolojik sağlık sorunları ve üreme organlarıyla ilgili diğer sağlık sorunlarını kapsar"
+            android:textColor="@color/black"
+            android:textSize="17dp"/>
+
+
+
+        <Button
+            android:id="@+id/yorumsil4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#3F8C43"
+            android:text="Yorum Yap"
+            android:textSize="18dp" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Randevu Al"
+            android:textSize="18dp"
+            android:backgroundTint="#3F8C43"
+            android:id="@+id/rndualma4"/>
+
+    </LinearLayout>
+
+</LinearLayout>
