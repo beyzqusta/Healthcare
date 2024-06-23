@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">dd</string>
+    <string name="ErenTuncer">Uzman Doktor Eren Tuncer"""
+        Plastik ve Rekonstrüktif Cerrahi vücuttaki eksik, kopmuş doku ve organların işlevlerini geri kazanmaları için uygulanan ameliyatları kapsar. Estetik Cerrahi ise, işleve zarar vermeden, kişinin fiziksel görünümünü daha estetik hale getirmeye odaklanmıştır."""
+    </string>
+
+    <string name="BurakHazine">Operatör Doktor Burak Hazine"""
+
+     Kadın hastalıkları ve doğum, kadınların üreme sağlığına odaklanan bir tıbbi uzmanlık dalıdır. Bu alan, gebelik, doğum, jinekolojik sağlık sorunları ve üreme organlarıyla ilgili diğer sağlık sorunlarını kapsar."""
+
+    </string>
+
+    <string name="AliFuatSerpen">Uzman Doktor Ali Fuat Serpen"""
+
+     Pediatri olarak da bilinen çocuk sağlığı ve hastalıkları bölümü, doğumdan ergenliğe kadar uzanan süreç içinde yer alan bireylerin tanı, takip ve tedavisi ile ilgilenen bilim dalıdır.Çocuk olarak tanımlanan kişilerin doğumsal hastalıkları,fiziksel ve motor gelişimi pediatri hekimlerince takip edilir. """
+
+    </string>
+
+    <string name="FurkanArin">Operatör Doktor Furkan Akın"""
+
+     Ortopedi ve travmatoloji,kemik ve eklemler dahil olmak üzere kas-iskelet sistemi, bağlar, tendonlar, kaslar ve sinirler gibi kas-iskelet sistemi rahatsızlıklarını teşhis eder ve tedavi ile ilgilenir."""
+
+    </string>
+
+    <string name="BetulSahin">Uzman Doktor Betül Şahin"""
+
+     Kulak Burun Boğaz ; işitme, denge, koku ve tat alma gibi duyu organlarının yanı sıra ses ve konuşma, solunum ve yutma fonksiyonlarındaki bozukluklar, yüz ve boyunda kazalar, şekil bozuklukları ve tümörler sonucu oluşan şekil bozuklukları incelenir."""
+
+    </string>
+
+    <string name="MugeGoreKaarali">Uzman Doktor Müge Göre Karaali"""
+
+       Deri bilimi olarak tanımlanan dermatoloji, ciltteki hastalıklar ve bunların tedavisi ile ilgilenen bir tıp disiplinidir. Bu bilim dalında insan vücudu için son derece hayati bir organ olan derinin her türden rahatsızlığı incelenmekte ve tedavi edilmektedir."""
+
+    </string>
+
+    <string name="CagdaSKara">Uzman Doktor Çağdaş Kara"""
+        İç Hastalıkları (Dahiliye), yetişkinlerde görülen çeşitli iç organ rahatsızlıklarının tanısını koyan, tedavi eden ve takip eden bir tıp dalıdır. Dahiliye uzmanları, kalp, akciğer, böbrek, sindirim sistemi ve endokrin sistem gibi iç organlardaki hastalıklara odaklanarak bireylerin genel sağlığını iyileştirmeyi hedeflerler. Bu uzmanlık alanı, kapsamlı bir sağlık bakımı sunarak, hastaların yaşam kalitesini artırmak ve sağlıklı bir yaşam sürmelerine katkıda bulunmak amacıyla multidisipliner bir yaklaşım benimser."""
+
+    </string>
+
+    <string name="HakanYildirim">Uzman Doktor Hakan Yıldırım"""
+         Beyin ve sinir hastalıkları, beyin ve omurilik dokusundan kaynaklanan ya da bu dokulara baskı yapan tümörlerin tedavisinin yanı sıra bel ve boyun fıtığı başta olmak üzere, kafa ve omurilik yaralanmaları, beyin damar tıkanıklıkları ve beyin kanamaları, beyni ve omuriliği besleyen damarlarda oluşan anevrizma yani baloncuklaşma gibi hastalıkların tanı ve tedavisi ile ilgilenen bilim dalıdır.
+        Boyun damarlarında oluşan daralmalar ,epilepsi, parkinson  gibi pek çok hayati fonksiyonu etkileyen hastalıklara müdahale eden bölümdür."""
+
+    </string>
+
+    <string name="SerapAlcicek">Uzman Doktor Serap Alçiçek"""
+        Genel cerrahi, vücutta sistemik ve yerel sorunların cerrahi yöntemlerle tedavisi yanında, genel prensipler (yara iyileşmesi, yaralanmaya metabolik ve endokrin cevap gibi) konuları içeren ve gelişimleri açısından pek çok cerrahi ve temel tıp dalları etkilemiş bir teknik disiplindir. Genel olarak yemek borusu, mide, ince bağırsak, kalın bağırsak, karaciğer, pankreas, safra kesesi ve safra yolları dahil olmak üzere karın içeriğine odaklanan bir cerrahi uzmanlık branşıdır. Bunun yanında Hemoroid, tiroid, periferik damarlar, meme, yaralanma, yumuşak doku, deri ve fıtıklar üzerine de çalışılır."""
+
+    </string>
+
+    <string name="SedaPamuk">Uzman Doktor Seda Pamuk"""
+        Kalp ve damar cerrahisi, kalp cerrahları tarafından gerçekleştirilen kalp veya dört büyük damar üzerinde yapılan cerrahi operasyonlardır. Çoğunlukla, endokardit, akut romatizmal ateş, ateroskleroz gibi sebeplerden doğan sessiz iskemi kalp krizi, konjenital kalp rahatsızlıkları ya da kalp kapağı hastalıkları gibi komplikasyonaları tedavi etmek için yapılır. Bu cerrahi aynı zamanda kalp nakli konusunu da içerir."""
+
+    </string>
+
+    <string name="ArzuSoyhan">Uzman Doktor Arzu Soyhan"""
+        Göğüs hastalıkları bölümü, akciğer ve solunum sisteminde oluşan hastalıkların tanı ve tedavisi ile ilgilenen ana bilim dalıdır. Astım, alerjik hastalıklar, bronşit, kronik obstrüktif akciğer hastalığı, zatürre, tüberküloz, akciğer embolisi, kronik öksürük, akciğer kanseri, uyku sırasında oluşan solunum bozuklukları, sigara bağımlılığına bağlı olarak gelişen hastalıklar gibi pek çok rahatsızlık ile ilgilenen bölüm hekimleri, multidisipliner yaklaşım ile çalışarak, tedavi düzenler."""
+
+    </string>
+
+    <string name="MuratUyar">Profesör Doktor Murat Uyar"""
+        Göz doktoru, görme problemlerini teşhis eder ve uygun tedavi yöntemlerini belirler. Göz hastalıkları doktoru; katarakt, glokom ve retina hastalıkları gibi çeşitli göz rahatsızlıklarını tedavi eder. Bu uzmanlık alanında en iyi hizmeti alabilmek için göz hastanesi tercih edilmelidir.
+        Katarakt,oküloplastik cerrahi, glokom, sarı nokta hastalığı tanı ve tedavisi, şaşılık,retina ve kornea hastalıkları gibi branşlarda hizmet verilir."""
+
+    </string>
+
+    <string name="ElifBaran">Uzman Doktor Elif Baran"""
+        Psikiyatri zihinsel, davranışsal ve duygusal bozuklukların önlenmesi, teşhisi ve tedavisine odaklanan tıp dalıdır. Psikiyatrist ise ruh sağlığı alanında uzmanlaşmış bir tıp doktorudur.Anksiyete,bağımlılık,bipolar bozukluk,depresyon,geriatrik bozukluk,obsesif kompülsif bozukluk (OKB)Paranoid kişilik bozukluğu,psikoz,sosyal fobi,şizofreni,travma sonrası stres bozukluğuUyku ve uyku bozuklukları gibi hastalıklara bakar."""
+    </string>
+
+
+</resources>
