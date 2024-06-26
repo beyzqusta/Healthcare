@@ -15,9 +15,6 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var db:NoteDataBaseHelper
     private lateinit var notesAdapter: NoteAdapter
-    lateinit var homeFAB: FloatingActionButton
-
-
 
 
     override fun onCreate(savedInstanceState: Bundle?) {

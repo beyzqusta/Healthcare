@@ -11,6 +11,7 @@ android {
           enable=true
       }
 
+
     defaultConfig {
         applicationId = "com.example.healtcare1"
         minSdk = 24

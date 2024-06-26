@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageButton
+import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -25,25 +26,20 @@ class DashBoards : AppCompatActivity() {
 
         val i =findViewById<Button>(R.id.doktorr)
         i.setOnClickListener {
-            val intent = Intent(this,Doktorprof::class.java)
+            val intent = Intent(this,MainActivity3::class.java)
             startActivity(intent)
 
         }
 
-        val cikissyap=findViewById<Button>(R.id.saglikhe)
+        val cikissyap=findViewById<Button>(R.id.ccii)
         cikissyap.setOnClickListener {
             val ciik=Intent(this,NoteDataBaseHelper::class.java)
             startActivity(ciik)
             finish()
         }
 
-        val yan=findViewById<ImageButton>(R.id.Imagebuton)
-        yan.setOnClickListener{
-            val y=Intent(this,drawer::class.java)
-            startActivity(y)
-        }
 
-        val api =findViewById<Button>(R.id.eczane)
+        val api =findViewById<Button>(R.id.api)
         api.setOnClickListener {
             val a= Intent(this,MainActivity2::class.java)
             startActivity(a)

@@ -1,6 +1,8 @@
 package com.example.healtcare1
 
+import android.content.Intent
 import android.os.Bundle
+import android.widget.ImageButton
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -41,6 +43,7 @@ class UpdateNoteActivity : AppCompatActivity() {
             db.updateNote(updateNote)
             finish()
             Toast.makeText(this,"Yorumunuz Güncellendi.",Toast.LENGTH_SHORT).show()
+
         }
 
 

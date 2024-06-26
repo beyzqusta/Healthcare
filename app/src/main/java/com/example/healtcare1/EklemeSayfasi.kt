@@ -26,7 +26,7 @@ class EklemeSayfasi : AppCompatActivity() {
             val note=Note(0,title,content)
             db.insertNote(note)
             finish()
-            Toast.makeText(this,"note saved",Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,"Yorum Eklendi",Toast.LENGTH_SHORT).show()
 
 
         }

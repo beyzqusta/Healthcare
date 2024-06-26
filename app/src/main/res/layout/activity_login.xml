@@ -26,6 +26,7 @@
             android:id="@+id/loginUsername"
             android:inputType="text"
             android:padding="15dp"
+            android:background="#1F7AC3"
             android:textColor="@color/black"
             android:textColorHint="@color/black"
             android:textSize="20dp" />
@@ -36,6 +37,7 @@
             android:layout_marginTop="70dp"
             android:hint="Şifre"
             android:id="@+id/loginPasswordd"
+            android:background="#1F7AC3"
             android:inputType="text"
             android:padding="15dp"
             android:textColor="@color/black"

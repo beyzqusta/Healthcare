@@ -22,8 +22,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="50dp"
-        android:background="#342337"
-        android:backgroundTint="#8BC34A"
         android:padding="16dp" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton

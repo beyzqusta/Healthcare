@@ -60,7 +60,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="50dp"
                     android:backgroundTint="#399A91"
-                    android:text="Doktor Yorumu yap"
+                    android:text="Doktor Profilleri"
                     android:textColor="#080909"
                     android:textSize="12dp"
                     android:textStyle="bold" />
@@ -130,14 +130,14 @@
                     android:layout_height="60dp"
                     android:layout_row="0"
                     android:layout_column="0"
-                    android:src="@drawable/eczane" />
+                    android:src="@drawable/hh" />
 
                 <Button
-                    android:id="@+id/eczane"
+                    android:id="@+id/api"
                     android:layout_width="wrap_content"
                     android:layout_height="50dp"
                     android:backgroundTint="#399A91"
-                    android:text="Eczane"
+                    android:text="HealtCareAPI"
                     android:textColor="#080909"
                     android:textStyle="bold" />
 
@@ -285,7 +285,7 @@
                     android:src="@drawable/ccks" />
 
                 <Button
-                    android:id="@+id/saglikhe"
+                    android:id="@+id/ccii"
                     android:layout_width="wrap_content"
                     android:layout_height="50dp"
                     android:backgroundTint="#399A91"
