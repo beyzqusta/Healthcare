@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".EklemeSayfasi">
+
+    <TextView
+        android:id="@+id/addNoteHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/copse"
+        android:text="Not Ekle"
+        android:textColor="@color/orange"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/addNoteHeading"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp"
+        android:src="@drawable/tik_isareti" />
+
+    <EditText
+        android:id="@+id/titleEditText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/addNoteHeading"
+        android:layout_marginTop="11dp"
+        android:background="@drawable/orenge_border"
+        android:backgroundTint="@color/white"
+        android:fontFamily="@font/copse"
+        android:hint="Enter the title"
+        android:maxLines="1"
+        android:padding="12dp"
+        android:textColor="@color/orange"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/contenEditText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/titleEditText"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/orenge_border"
+        android:backgroundTint="@color/white"
+        android:fontFamily="@font/copse"
+        android:gravity="top"
+        android:hint="Enter the title"
+        android:padding="12dp"
+        android:textSize="20sp" />
+</RelativeLayout>

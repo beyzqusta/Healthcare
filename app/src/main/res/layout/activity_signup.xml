@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/girisbackground"
+    tools:context=".Signup">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/baslik" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="32dp"
+            android:hint="E-mail "
+            android:id="@+id/signUsername"
+            android:inputType="text"
+            android:padding="15dp"
+            android:textColor="@color/black"
+            android:background="#1F7AC3"
+            android:textColorHint="@color/black"
+            android:textSize="20dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="70dp"
+            android:hint="Şifre"
+            android:id="@+id/signPasswordd"
+            android:background="#1F7AC3"
+            android:inputType="text"
+            android:padding="15dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/signButton"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="40dp"
+            android:backgroundTint="#1F7AC3"
+            android:paddingLeft="24dp"
+            android:text="Kayıt Ol"
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

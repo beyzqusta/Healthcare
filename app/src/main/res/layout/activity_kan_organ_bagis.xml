@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KanOrganBagis">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="110dp"
+        android:layout_marginTop="19dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/organ" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:id="@+id/text2"
+        android:layout_height="50dp"
+        android:text="KAN ORGAN BAĞIŞI HAKKINDA BİLGİLENİRME"
+        android:textColor="@color/red"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="129dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="184dp"
+        android:layout_marginTop="168dp"
+        android:layout_marginEnd="169dp"
+        android:text="Kan Bağışı Hakkında Bilgilendirme
+
+    Kan Bağışının Önemi:
+
+    Kan bağışı, hayat kurtaran bir insani görevdir. Her yıl milyonlarca insan, kaza, ameliyat, kanser ve diğer hastalıklar nedeniyle kana ihtiyaç duymaktadır. Kan bağışı, bu ihtiyacı karşılamanın ve hastaların hayatta kalmasına yardımcı olmanın en önemli yollarından biridir.
+
+    Kimler Kan Bağışlayabilir?
+
+    18-65 yaş arası, en az 50 kg ağırlığında ve genel sağlık durumu iyi olan her sağlıklı birey kan bağışlayabilir. Bazı kronik hastalıklara sahip kişiler de belirli koşullar altında kan bağışlayabilir. Kan bağışı öncesi sağlık durumunuzla ilgili herhangi bir sorunuz varsa doktorunuza danışmanız önemlidir.
+
+
+
+    Türk Kızılay: https://www.kanver.org/KanHizmetleri/KanBagisiNoktalari/
+    Kanver: https://www.kanver.org/
+    Sağlık Bakanlığı: https://www.kizilay.org.tr/sss?id=6
+    Kan Bağışı Yapmaya Hazır mısınız?
+
+    En yakın kan merkezine giderek veya https://www.kanver.org/KanHizmetleri/KanBagisiRandevu adresinden randevu alarak kan bağışında bulunabilirsiniz.
+
+    Unutmayın, kan bağışı hayat kurtarır!
+
+    -Organ Bağışı Hakkında Bilgilendirme
+
+Organ Bağışı Nedir?
+
+Organ bağışı, bir kişinin vefatından sonra, kalp, karaciğer, böbrek, akciğer, pankreas, ince bağırsak ve kornea gibi organlarının veya dokularının, ihtiyaç duyan hastalara nakledilmesi için bağışlanmasına verilen isimdir.
+
+Organ Bağışının Önemi:
+
+Organ nakli, birçok hastaya hayat kurtaran ve yaşam kalitelerini önemli ölçüde artıran bir tedavi yöntemidir. Fakat, organ nakli bekleyen hasta sayısı, bağışlanan organ sayısından kat kat fazladır. Bu nedenle, organ bağışı hayat kurtarmak için hayati önem taşımaktadır.
+
+
+Organ Bağışı Nasıl Yapılır?
+
+Organ bağışı yapmak için aşağıdaki adımları takip edebilirsiniz:
+
+Organ Bağışı Kararı Verme: Organ bağışlamak istediğinize dair net bir karar vermeniz önemlidir. Ailenizle de bu konuyu görüşmeniz ve onların da fikrini almanız faydalı olacaktır.
+Organ Bağış Belgesi Doldurma: En yakın Sağlık Müdürlüğü, Aile Hekimliği Birimi, Alo 171 Organ Bağış Hattı veya yetkili hastanelerden organ bağış belgesi alabilirsiniz. Bu belgeyi doldurarak ve imzalayarak organ bağışçısı olabilirsiniz.
+Organ Bağış Bilgi Sistemine Kayıt Olma: Organ bağış belgenizi doldurduktan sonra, Sağlık Bakanlığı'nın Organ Bağış Bilgi Sistemine (OBBS) kayıt olabilirsiniz. Bu sayede, organ bağışçısı olduğunuzu belgelemiş olursunuz.
+ Organ bağışı hakkında daha fazla bilgi için Sağlık Bakanlığı'nın web sitesini (https://shgm.saglik.gov.tr/TR-9853/doku-organ-nakli-ve-diyaliz-hizmetleri-dairesi-baskanligi.html) ziyaret edebilir veya Alo 171 Organ Bağış Hattını arayabilirsiniz.
+
+
+Organ bağışı için hemen harekete geçin!"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
