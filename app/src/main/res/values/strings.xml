@@ -1,0 +1,296 @@
+<resources>
+    <string name="app_name">İlaç Hatırlatıcı</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_holder">Place Holder</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="Beslenme">-Sağlıklı Beslenmenin Faydaları"""
+
+Daha iyi genel sağlık: Sağlıklı beslenme, kalp hastalığı, diyabet ve bazı kanser türleri gibi kronik hastalıkları önlemeye yardımcı olabilir.
+
+Kilo kontrolü: Sağlıklı beslenme, kilo vermenize veya kilonuzu korumanıza yardımcı olabilir.
+
+Daha fazla enerji: Sağlıklı besinler, gün boyunca enerjinizi yüksek tutmak için ihtiyacınız olan besinleri sağlar.
+
+Daha güçlü bir bağışıklık sistemi: Sağlıklı beslenme, vücudunuzun enfeksiyonlarla savaşmasına yardımcı olur.
+
+Geliştirilmiş ruh hali: Sağlıklı beslenme, depresyon ve anksiyete belirtilerini azaltmaya yardımcı olabilir.
+
+Daha iyi uyku: Sağlıklı beslenme, daha iyi uyumanıza yardımcı olabilir.
+
+Daha parlak cilt: Sağlıklı beslenme, cildinizin daha sağlıklı ve parlak görünmesine yardımcı olabilir.
+
+Daha güçlü saçlar: Sağlıklı beslenme, saçlarınızın daha güçlü ve parlak olmasına yardımcı olabilir.
+
+-Farklı Beslenme Tarzları
+
+Vegan: Veganlar hiçbir hayvansal ürün tüketmezler. Bu, et, kümes hayvanları, balık, süt ürünleri ve yumurta içermez.
+
+Vejetaryen: Vejetaryenler et, kümes hayvanları ve balık tüketmezler. Süt ürünleri, yumurta ve deniz ürünlerini tüketebilirler.
+
+Glutensiz: Glutensiz beslenme, buğday, arpa ve çavdar gibi tahıllarda bulunan glüten proteinini içermeyen yiyecekleri tüketmeyi içerir.
+
+Paleo: Paleo diyeti, avcı-toplayıcı atalarımızın yediği yiyecekleri taklit etmeyi amaçlar. Bu, et, balık, sebzeler, meyveler, kuruyemişler ve tohumlar içerir.
+
+Ketojenik: Ketojenik diyet, vücudunuzun enerji için yağ yakmasını sağlamak için yağlar açısından zengin, karbonhidratlar açısından fakir bir diyettir.
+
+Hangi beslenme tarzının sizin için en uygun olduğunu seçerken, yaşam tarzınızı, sağlık hedeflerinizi ve gıda tercihlerinizi göz önünde bulundurmanız önemlidir.
+
+-Sağlıklı ve Lezzetli Tarifler
+
+İnternette ve mutfak kitaplarında binlerce sağlıklı ve lezzetli tarif bulabilirsiniz. Başlamanız için bazı ipuçları:
+
+-Taze ve mevsimlik ürünler kullanın.
+-Çok fazla işlenmiş gıdadan kaçının.
+-Farklı pişirme yöntemlerini deneyin.
+-Baharat ve otları kullanın.
+-Aileniz ve arkadaşlarınızla birlikte yemek pişirin.
+-Bazı popüler sağlıklı ve lezzetli tarifler şunlardır:
+
+Salatalar: Salatalar, taze sebzeler, meyveler ve proteinlerle dolu besleyici bir öğün veya atıştırmalık olabilir.
+
+Çorbalar: Çorbalar, soğuk bir gün için ısınmanın harika bir yoludur ve ayrıca besin açısından da zengin olabilirler.
+
+Smoothieler: Smoothieler, meyveler, sebzeler, yoğurt ve protein tozu ile besleyici bir kahvaltı veya atıştırmalık için hızlı ve kolay bir yoldur.
+
+Fırında somon: Fırında somon, lezzetli ve omega-3 yağ asitleri açısından zengin sağlıklı bir protein kaynağıdır.
+
+Tavuklu sebze sote: Tavuklu sebze sote, hızlı ve kolay bir akşam yemeği veya öğle yemeği seçeneğidir.
+
+-Porsiyon Kontrolü ve Etiket Okuma
+
+Porsiyon kontrolü, sağlıklı bir kiloda kalmanın ve sağlıklı beslenmenin önemli bir parçasıdır. Porsiyon boyutlarınızı kontrol etmenin birkaç yolu vardır:
+
+Ölçülü kaplar ve kaşıklar kullanın.
+Yiyeceklerinizi önceden porsiyonlara ayırın.
+Paketli gıdalardaki porsiyon boyutlarını okuyun.
+Açken alışverişe gitmeyin.
+Etiket okumak, ne yediğinizi anlamanın önemli bir yoludur."""</string>
+
+    <string name="Egzersiz">-Farklı Egzersiz Türleri ve Faydaları"""
+
+1. Kardiyovasküler Egzersizler:
+Türler: Koşu, bisiklet, yüzme, dans, aerobik, ip atlama
+Faydalar: Kalp ve akciğer fonksiyonlarını geliştirir, dayanıklılığı artırır, kilo vermeyi kolaylaştırır, stresi azaltır, ruh halini iyileştirir.
+
+2. Güç Egzersizleri:
+Türler: Ağırlık kaldırma, direnç bantları ile egzersiz, vücut ağırlığı egzersizleri (squat, plank, lunge)
+Faydalar: Kas kütlesini ve gücünü artırır, kemik yoğunluğunu korur, metabolizmayı hızlandırır, günlük yaşamda daha güçlü olmanızı sağlar.
+
+3. Esneklik Egzersizleri:
+Türler: Yoga, pilates, streching
+Faydalar: Eklem hareket açıklığını artırır, kasların esnekliğini sağlar, sakatlanma riskini azaltır, dengeyi ve koordinasyonu geliştirir.
+
+4. Denge Egzersizleri:
+Türler: Tai chi, yoga, tek bacak üzerinde durma
+Faydalar: Dengeyi ve koordinasyonu geliştirir, düşme riskini azaltır, yaşlılar için özellikle faydalıdır.
+
+5. Hız ve Çeviklik Egzersizleri:
+Türler: Merdiven çıkma, sprint, plyometrik egzersizler
+Faydalar: Hız ve çevikliği artırır, sporda performansı artırır, reaksiyon süresini kısaltır.
+
+-Farklı Kondisyon Seviyelerine Uygun Egzersiz Programları
+
+Yeni Başlayanlar:
+Haftada 3-4 gün, 30 dakikalık egzersizler
+Kolay kardiyo ve güç egzersizleri ile başlayın
+Yavaş yavaş egzersiz süresini ve yoğunluğunu artırın
+Dinlenme ve toparlanma için zaman ayırın
+
+Orta Seviye:
+Haftada 4-5 gün, 45-60 dakikalık egzersizler
+Daha zorlayıcı kardiyo ve güç egzersizleri ekleyin
+Interval antrenmanları deneyebilirsiniz
+Farklı kas gruplarını çalıştırdığınızdan emin olun
+
+İleri Seviye:
+Haftada 5-6 gün, 1 saat veya daha fazla egzersiz
+Yüksek yoğunluklu interval antrenmanları (HIIT)
+Ağır ağırlık kaldırma
+Dinlenme ve toparlanma için yeterli zaman ayırın
+
+-Isınma ve Soğuma Egzersizleri
+
+Isınma:
+Hafif kardiyo (yürüyüş, hafif koşu)
+Dinamik esneme (kolları ve bacakları dairesel hareketlerle çevirme)
+Egzersizlere hazırlıklı olmanızı sağlar, sakatlanma riskini azaltır.
+
+Soğuma:
+Hafif kardiyo (yürüyüş)
+Statik esneme (kasları uzun süre germek)
+Vücudunuzun toparlanmasına yardımcı olur, kas ağrısını azaltır.
+
+-Egzersiz Sırasında Dikkat Edilmesi Gerekenler
+
+Yeterli su için
+Doğru egzersiz tekniklerini kullanın
+Ağrı hissederseniz durun ve dinlenin
+Vücudunuzu dinleyin ve aşırı zorlamayın
+Hava durumuna uygun giyinin
+Rahat ve uygun ayakkabılar giyin
+
+-Egzersiz öncesi ve sonrası sağlıklı beslenin
+
+Düzenli olarak egzersiz yapın (haftada en az 3-4 gün)
+
+Unutmayın: Egzersiz programına başlamadan önce doktorunuza danışmanız önemlidir."""</string>
+
+    <string name="Stres_Yönetimi">Nefes Egzersizleri"""
+
+-Nefes egzersizleri; stresi azaltmak, rahatlamak ve zihninizi sakinleştirmek için harika bir yoldur.
+
+Diyafram Nefes Alma: Bu, en temel nefes egzersizlerinden biridir. Rahat bir pozisyonda oturun veya uzanın ve bir elinizi karnınıza, diğer elinizi göğsünüze koyun. Burnunuzdan derin bir nefes alın ve karnınızın şiştiğini hissedin. Göğsünüz çok fazla hareket etmemeli. Yavaşça ağzınızdan nefes verin.
+
+4-7-8 Nefes Alma: Bu teknik, uykuya dalmanıza yardımcı olabilir. 4e kadar sayarak burnunuzdan nefes alın, 7ye kadar sayarak nefesinizi tutun ve 8e kadar sayarak ağzınızdan nefes verin.
+
+Kare Nefes Alma: Bu teknik, stresi azaltmak için kullanılabilir. 4e kadar sayarak burnunuzdan nefes alın, 4e kadar sayarak nefesinizi tutun, 4e kadar sayarak ağzınızdan nefes verin ve 4e kadar sayarak nefesinizi tutun.
+
+-Meditasyon
+
+Meditasyon, zihninizi sakinleştirmek ve odaklanmanızı geliştirmek için harika bir yoldur.
+
+Farkındalık Meditasyonu: Bu, nefesinize veya bedeninizin hislerine odaklanmayı içerir.
+
+Mantra Meditasyonu: Bu, bir kelimeyi veya kelime öbeğini tekrarlamayı içerir.
+
+Transandantal Meditasyon: Bu, sessizce oturmayı ve zihninizi bir düşünceye veya mantraya odaklamayı içerir.
+
+-Yoga ve Tai Chi
+
+Yoga ve tai chi, hem bedeninizi hem de zihninizi çalıştıran nazik egzersiz formlarıdır.
+
+Yoga: Yoga, esneme, güç ve denge pozları içerir.
+
+Tai Chi: Tai chi, yavaş ve akıcı hareketler içerir.
+
+-Progresif Kas Gevşetme
+
+Progresif kas gevşetme, stresi ve kaygıyı azaltmak için kullanılabilir. Bu teknikte, kas gruplarınızı gerip sonra gevşetirsiniz.
+
+-Doğada Zaman Geçirmek
+
+Doğada zaman geçirmek, stresi azaltmak, ruh halinizi iyileştirmek ve zihinsel ve fiziksel sağlığınızı geliştirmek için harika bir yoldur.
+
+Yürüyüşe çıkın.
+Bir parkta veya bahçede oturun.
+Bir ormanda veya doğada yürüyüşe çıkın.
+Deniz kenarında veya bir göl kenarında zaman geçirin.
+Bu tekniklerin her biri, genel refahınızı geliştirmenize yardımcı olabilir. Hangi tekniklerin sizin için en iyi olduğuna karar vermeden önce farklı teknikleri denemek isteyebilirsiniz."""</string>
+
+    <string name="Kişisel_Gelişim">Hedef Belirleme ve Motivasyon"""
+
+-Hedef Belirleme
+
+SMART Hedefler: Hedeflerinizi SMART (Specific, Measurable, Achievable, Relevant, Time-bound) olacak şekilde belirleyin.
+
+Hedef Tahtası Oluşturma: Hedeflerinizi ve ilerlemenizi görselleştirmek için bir hedef tahtası oluşturun.
+
+Motivasyon Kaynakları: İlham verici hikayeler, alıntılar ve videolar gibi motivasyon kaynakları bulun.
+
+Hedef Buddy Bulma: Hedeflerinize birlikte ulaşmak için bir hedef buddy bulun.
+
+Ödüller Kendine Koyma: Hedeflerinize ulaştığınızda kendinizi ödüllendirin.
+
+-Motivasyon
+
+Olumlu Olun: Kendinize ve yeteneklerinize inanın.
+
+Küçük Başarıları Kutlayın: Hedeflerinize ulaşmak için attığınız her adımı kutlayın.
+
+Kendinize İnanın: Başarabileceğinize dair inancınızı asla kaybetmeyin.
+
+Olumsuz Düşünceleri Yenin: Olumsuz düşünceleri yenmek için teknikler öğrenin.
+
+Kendinize Zaman Ayırın: Kendinizi şarj etmek için zaman ayırın.
+
+-Zaman Yönetimi
+
+Etkili Zaman Yönetimi Teknikleri:
+
+Zamanınızı Planlayın: Bir planlayıcı veya zaman yönetimi uygulaması kullanın.
+
+Önceliklerinizi Belirleyin: En önemli görevlerinize öncelik verin.
+
+Zamanınızı Parçalara Ayırın: Büyük görevleri daha küçük, daha yönetilebilir görevlere bölün.
+
+Dikkat Dağıtıcı Unsurları Azaltın: Telefonunuzu kapatın ve sosyal medyadan uzak durun.
+
+Zamanınızı Takip Edin: Ne kadar zaman harcadığınızı takip edin ve gerektiğinde ayarlamalar yapın.
+
+-Verimlilik
+
+Odaklanmayı ve Konsantrasyonu Artırmaya Yardımcı Olacak Teknikler:
+
+Pomodoro Tekniği: 25 dakikalık çalışma aralıkları ve 5 dakikalık molalar kullanın.
+
+Beyaz Gürültü: Dikkatinizi dağıtacak sesleri bastırmak için beyaz gürültü kullanın.
+
+Meditasyon: Zihninizi sakinleştirmek ve odaklanmanızı geliştirmek için meditasyon yapın.
+
+Uykunuzu Düzenleyin: Yeterince uyumak konsantrasyon için önemlidir.
+
+Sağlıklı Beslenin: Beyninize besin sağlamak için sağlıklı beslenin.
+
+-Kişisel Finans
+
+Bilgiler:
+
+Bütçe Oluşturma: Gelirlerinizi ve giderlerinizi takip etmek için bir bütçe oluşturun.
+
+Borç Yönetimi: Borçlarınızı yönetmek ve ödemek için bir plan oluşturun.
+
+Tasarruf: Hedeflerinize ulaşmak için para biriktirmenin yollarını öğrenin.
+
+Yatırım: Paranızı büyütmek için yatırım yapmayı öğrenin.
+
+Finansal Bilgi: Dolandırıcılıklardan ve dolandırıcılıklardan korunmak için finansal bilgi edinin."""</string>
+
+    <string name="Uyku">Uyku"""
+
+Hem fiziksel hem de zihinsel sağlığımız için çok önemlidir. Yeterince ve kaliteli uyku almak, hafızamızı, ruh halimizi, konsantrasyonumuzu ve bağışıklık sistemimizi güçlendirmeye yardımcı olur. Uygulamanızda uyku kategorisini şu alt kategorilere ayırabilirsiniz:
+-Uyku Hijyeni:
+
+Uyku programı oluşturma: Her gün aynı saatte yatıp kalkmaya çalışın, hafta sonları bile.
+
+Rahat bir uyku ortamı oluşturma: Yatak odanızı karanlık, sessiz ve serin tutun.
+
+Yatmadan önce elektronik cihazlardan kaçınma: Yatmadan önceki saatlerde ekrandan gelen mavi ışık, uykuya dalmanızı zorlaştırabilir.
+
+Kafein ve alkolden kaçınma: Kafein ve alkol, uykuya dalmanızı ve uykuda kalmanızı zorlaştırabilir.
+
+Düzenli egzersiz yapmak: Düzenli egzersiz yapmak uyku kalitenizi artırabilir, ancak yatmadan önce aşırı egzersiz yapmaktan kaçının.
+
+Yatmadan önce rahatlatıcı aktiviteler yapmak: Sıcak bir duş almak, kitap okumak veya meditasyon yapmak gibi rahatlatıcı aktiviteler uykuya dalmanıza yardımcı olabilir.
+
+-Uyku Sorunları:
+
+Uykusuzluk: Uykuya dalmakta veya uykuda kalmakta zorlanıyorsanız, uykusuzluk yaşıyor olabilirsiniz.
+
+Uyku apnesi: Uyku apnesi, nefes almanın tekrar tekrar durduğu ve başladığı bir uyku bozukluğudur.
+
+Huzursuz bacak sendromu: Huzursuz bacak sendromu, uykuya dalmanızı zorlaştıran ve bacaklarınızda rahatsızlık hissi yaratan bir durumdur.
+
+Narkolepsi: Narkolepsi, gündüz aşırı uyku hali ve ani uyku atakları ile karakterize edilen bir uyku bozukluğudur.
+
+Uyku düzeninin bozulması: Vardiyada çalışma, seyahat veya jet lag gibi faktörler uyku düzeninizi bozabilir.
+
+-Uyku İhtiyacı:
+
+Farklı yaş grupları için uyku ihtiyacı: Yetişkinler için her gece 7-8 saat, ergenler için 8-10 saat ve çocuklar için 10-13 saat uyku önerilir.
+
+Bireysel uyku ihtiyacınız: Uyku ihtiyacınız, genetiğinize, yaşam tarzınıza ve genel sağlık durumunuza bağlı olarak değişebilir.
+
+-Uyku Takibi:
+
+Uyku takibi uygulamaları ve cihazları: Uyku kalitenizi takip etmek ve uyku düzeninizi iyileştirmeye yardımcı olmak için kullanabileceğiniz birçok uygulama ve cihaz mevcuttur.
+
+Uyku günlüğü tutma: Uyku günlüğü tutmak, uyku alışkanlıklarınızı ve uyku kalitenizi izlemek için iyi bir yoldur.
+
+-Profesyonel Yardım:
+
+Uyku problemleri yaşıyorsanız, bir doktora veya uyku uzmanına danışmanız önemlidir.
+
+Doktorunuz, uyku problemlerinizin nedenini teşhis etmenize ve tedavi seçeneklerini tartışmanıza yardımcı olabilir."""
+        </string>
+</resources>
