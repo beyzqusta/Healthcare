@@ -4,7 +4,7 @@
 ### REFERANS UYGULAMA : E - NABIZ
 ### UYGULAMA ADRESİ : https://enabiz.gov.tr
 ### GRUP ADI : PULSE PİONEERS 
-### PROJE EKİBİ : BEYZA USTA , CEYDA PALANCI , MERVE TALAN , MELİSA AKAR
+### PROJE EKİBİ : BEYZA USTA , MERVE TALAN , MELİSA AKAR
 1.[PROJE PLANI](https://github.com/beyzqusta/Healthcare/blob/main/PROJE%20PLANI.md)<br/>
 2.[GEREKSİNİM ANALİZİ](https://github.com/beyzqusta/Healthcare/blob/main/GEREKS%C4%B0N%C4%B0M%20ANAL%C4%B0Z%C4%B0%20SAYFASI.md)<br/>
 3.[DURUM DİYAGRAMI](https://github.com/beyzqusta/Healthcare/blob/main/DURUM%20D%C4%B0YAGRAMI.md)<br/>
