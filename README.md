@@ -3,7 +3,7 @@
 ### PROJE KATEGORİSİ : SAĞLIK
 ### REFERANS UYGULAMA : E - NABIZ
 ### UYGULAMA ADRESİ : https://enabiz.gov.tr
-### GRUP ADI : PULSE PİONEERS 
+### GRUP ADI : GOSSİP GİRLS
 ### PROJE EKİBİ : BEYZA USTA , MERVE TALAN , MELİSA AKAR
 1.[PROJE PLANI](https://github.com/beyzqusta/Healthcare/blob/main/PROJE%20PLANI.md)<br/>
 2.[GEREKSİNİM ANALİZİ](https://github.com/beyzqusta/Healthcare/blob/main/GEREKS%C4%B0N%C4%B0M%20ANAL%C4%B0Z%C4%B0%20SAYFASI.md)<br/>
